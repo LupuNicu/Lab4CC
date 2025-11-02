@@ -10,3 +10,4 @@ new 3-way merge text
 =======
 main text
 >>>>>>> main
+squash text 1
