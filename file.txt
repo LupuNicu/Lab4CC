@@ -4,5 +4,9 @@ line 3
 line 4
 NFF line
 new NFF line
+<<<<<<< HEAD
 3-way merge
 new 3-way merge text
+=======
+main text
+>>>>>>> main
