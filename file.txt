@@ -1,13 +1,4 @@
 line 1
 line 2
 line 3
-<<<<<<< HEAD
 line 4
-<<<<<<< HEAD
-=======
-line 4
-main line
->>>>>>> 278bc0e (main line)
-=======
-non FF line
->>>>>>> ceaecea (non ff line)
