@@ -5,3 +5,4 @@ line 4
 NFF line
 new NFF line
 3-way merge
+new 3-way merge text
